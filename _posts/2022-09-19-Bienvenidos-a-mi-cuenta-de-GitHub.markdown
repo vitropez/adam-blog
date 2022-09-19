@@ -6,5 +6,5 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img:Background_VIEWNEXT_AZUL_16.9.jpg  # Add image post (optional)
 tags: [Blog, Meditation]
 author: # Add name author (optional)
-
+---
 conectate al mundo
